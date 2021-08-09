@@ -1,7 +1,7 @@
 from multiprocessing import Process
 
-def one(): import Video
-def two(): import ServoPan
+def one(): import Camera
+def two(): import Phase3Final
 
 Process.daemon=True
 
